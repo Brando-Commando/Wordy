@@ -35,9 +35,11 @@ border-radius:180px;
   font-size:30px;
 }
 
-#footnote {
-   background-color:#404040;
-  /* background-color:#34DABC; */
-  color::#34DABC;
-  margin:0px;
+#footer {
+  margin-top:80px;
+  margin-bottom:50px;
+
+}
+#Soonaval {
+  margin-top:50px;
 }
